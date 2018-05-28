@@ -5,6 +5,7 @@
         <a class="navbar-brand" href="/">
           <abbr>pgf</abbr>
           <span>Planning Green Futures</span>
+          <sub>Sierra Leone</sub>
         </a>
       </nav>
     </header>
@@ -33,6 +34,7 @@
     margin-bottom: 2rem;
   }
   .navbar-brand {
+    position: relative;
     abbr {
       color: $yellow;
       font-size: 2rem;
@@ -41,11 +43,19 @@
     }
     span {
       color: white;
+      font-size: 1.1rem;
       margin-left: .5rem;
       text-transform: uppercase;
     }
+    sub {
+      bottom: 3px;
+      color: $yellow;
+      font-weight: 100;
+      position: absolute;
+      right: 0;
+    }
     &:hover {
-      abbr, span {
+      abbr, span, sub {
         color: lighten($yellow, 20%);
       }
     }
