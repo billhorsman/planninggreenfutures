@@ -24,6 +24,26 @@
       </div>
     </section>
 
+    <section class="services">
+      <h2>Services</h2>
+      <div class="row">
+        <div class="col-md-6">
+          <ul class="spaced">
+            <li><span>Preparation of field surveys</span></li>
+            <li><span>Production of plans and reports</span></li>
+            <li><span>Facilitation of workshops and com- munity meetings</span></li>
+          </ul>
+        </div>
+        <div class="col-md-6">
+          <ul class="spaced">
+            <li><span>Representing clients’ views at stakehold- er meetings</span></li>
+            <li><span>Project design and management Feasibility Studies</span></li>
+            <li><span>Research studies, SEAs, EIAs & ESIAs</span></li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
     <section class="projects">
       <h2>Projects</h2>
       <div class="cards">

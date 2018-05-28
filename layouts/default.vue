@@ -11,6 +11,10 @@
     <div class="container">
       <nuxt/>
     </div>
+    <footer>
+      Planning Green Futures Ltd &mdash;
+      37, Brook Street, Freetown, Sierra Leone
+    </footer>
   </div>
 </template>
 
