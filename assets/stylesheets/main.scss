@@ -12,6 +12,23 @@ ul.spaced {
   }
 }
 
+.cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, 250px);
+  grid-gap: 10px;
+  margin: 0;
+  padding: 0;
+  a {
+    background: #f0f0f0;
+    display: block;
+    padding: 1rem;
+    &:hover {
+      background: #f9f9f9;
+      text-decoration: none;
+    }
+  }
+}
+
 h2 {
   color: $green;
   margin: 0 0 2rem;
@@ -39,4 +56,8 @@ figure {
   p {
     margin: 0;
   }
+}
+
+section {
+  margin-bottom: 2rem;
 }
