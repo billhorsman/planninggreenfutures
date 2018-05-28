@@ -2,16 +2,16 @@
   <section>
     <div class="row">
       <div class="col-md-7">
-        <p>Planning Green Futures Ltd is a multi-disciplinary consultancy offering a wide range of skills and services in environmental assess- ment, natural resources planning , and social and community welfare enhancement. The company was established in August 2012 and is affiliated to pgf Consulting based in Bristol in the United Kingdom. It is managed by Ranita Adama Sandi-Koroma, a Postgraduate of the University of Sierra Leone (Fourah Bay) with wide experience in social and environmental impact assessment, fisheries, land use and community and gender issues.</p>
+        <p>Planning Green Futures Ltd is a multi-disciplinary consultancy offering a wide range of skills and services in environmental assessment, natural resources planning , and social and community welfare enhancement. The company was established in August 2012 and is affiliated to pgf Consulting based in Bristol in the United Kingdom. It is managed by Ranita Adama Sandi-Koroma, a Postgraduate of the University of Sierra Leone (Fourah Bay) with wide experience in social and environmental impact assessment, fisheries, land use and community and gender issues.</p>
         <p>Planning Green Futures Ltd’s International Director is Peter Jon Nelson, who is also the Principal of pgf Consulting and is an international planner and environmental scientist. Peter has worked extensively in West Africa since 2002.</p>
-        <p>Planning Green Futures Ltd is a new style of planning practice, since its main objective is to build environmental capacity in Sierra Leone. Its primary role is to assist Government Ministries and Agencies, District Councils, Civil Society and International Partners to intro- duce state of the art policies, plans and programmes for improving livelihoods and reducing poverty . All projects are designed to ensure environmental enhancement, sustainable use of natural resources and self-help within local communities.</p>
+        <p>Planning Green Futures Ltd is a new style of planning practice, since its main objective is to build environmental capacity in Sierra Leone. Its primary role is to assist Government Ministries and Agencies, District Councils, Civil Society and International Partners to introduce state of the art policies, plans and programmes for improving livelihoods and reducing poverty . All projects are designed to ensure environmental enhancement, sustainable use of natural resources and self-help within local communities.</p>
         <p>While the primary focus lies in providing services to the public sector, pgf Ltd also supports investors and development companies that have adopted a positive commitment towards sustainable development.</p>
         <p>Pgf Ltd guards its objectivity and independence carefully. It will only take on assignments that are in the National Interest of countries in which it works.</p>
       </div>
       <div class="col-md-5">
         <p>Current and Recent Projects:</p>
         <ul class="spaced">
-          <li><span>Designing a Climate Change adaptation programme for rural water and sanitation improve- ments in five districts for the African Development Bank and Ministries of Water Resources, Health and Sanitation;</span></li>
+          <li><span>Designing a Climate Change adaptation programme for rural water and sanitation improvements in five districts for the African Development Bank and Ministries of Water Resources, Health and Sanitation;</span></li>
           <li><span>Undertaking the design and environmental assessment of a new waste recycling and composting site for Bo City Council (promoted by Welthungerhilfe, the Council and UK Aid);</span></li>
           <li><span>Developing the National Ecotourism Policy for the National Tourist Board and Ministry of Tourism and Cultural Affairs;</span></li>
           <li><span>Assessing the development of an new fibreoptics internet networkfor Airtel;</span></li>
@@ -34,7 +34,39 @@
         <a href="/fibre-optic-broadband-network">Environmental and Social Impact Assessment of the Fibre-optic Broadband Network for Freetown and the Western Peninsula</a>
       </li>
       <li>
-        <a href="/sea-for-oil">Rich Future or Resource Curse? - SEA for Oil</a>
+        <a href="/sea-for-oil">Rich Future or Resource Curse? SEA for Oil</a>
+      </li>
+      <li>
+        <a href="/needs-assessment-for-epa">Needs Assessment for the Environment Protection Agency-SL</a>
+      </li>
+      <li>
+        <a href="/fisheries-sesa-in-ghana">Fisheries SESA in Ghana</a>
+      </li>
+      <li>
+        <a href="/shire-river-basin-in-malawi">The Shire River Basin, Malawi</a>
+      </li>
+      <li>
+        <a href="/land-use-planning-tana-delta-in-kenya">Land Use Planning and SEA for the Tana Delta in Kenya</a>
+      </li>
+      <li>
+        <a href="/regulations-for-mining-in-sierra-leone">Environmental and Social Regulations for Mining in Sierra Leone</a>
+      </li>
+    </ul>
+
+    <h3>Team</h3>
+
+    <ul class="people">
+      <li>
+        <h4>Peter Nelson</h4>
+        <img src="/peter.png" alt="Peter Nelson">
+        <p>In addition to leading the Sierra Leone Oil and Gas SEA, Peter Nelson is currently advising the Government of Kenya and Nature Kenya on the preparation of a Land Use Plan for the Tana Delta and a Strategic Assessment of water use and pastoral farming in the Tana River Basin.</p>
+        <p>He is also a member of the Expert Review Panel advising on development of the water resources of the Abbey / Blue Nile in Ethiopia.</p>
+      </li>
+      <li>
+        <h4>Ranita Koroma</h4>
+        <img src="/ranita.png" alt="Ranita Koroma">
+        <p>Ranita Koroma is currently undertaking the socioeconomic assessment on behalf of a consortium for a Palm Oil Development in Pujehun District, Sierra Leone.</p>
+        <p>Ranita is also assisting the SEA of potential Oil and Gas development in Sierra Leone, including field research on the impacts of the Jubilee Field in Ghana.</p>
       </li>
     </ul>
   </section>
@@ -50,4 +82,21 @@ export default {
 
 <style lang="scss">
   @import '@/assets/stylesheets/main.scss';
+
+  ul.people {
+    margin: 0;
+    padding: 0;
+    li {
+      list-style: none;
+      margin: 0;
+      padding: 1rem;
+    }
+    img {
+      border-radius: 50%;
+      float: left;
+      height: 100px;
+      margin: 0 1rem 1rem 0;
+      width: 100px;
+    }
+  }
 </style>

@@ -26,12 +26,17 @@ h2 {
 
 figure {
   background: #f0f0f0;
-  padding: 1rem 1rem .1rem;
+  padding: 1rem;
   figcaption {
-    font-weight: bold;
     text-align: center;
+    &.title {
+      font-weight: bold;
+    }
   }
   img {
     margin: 1rem 0;
+  }
+  p {
+    margin: 0;
   }
 }
