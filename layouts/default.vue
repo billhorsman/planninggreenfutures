@@ -21,16 +21,8 @@
 
 <style lang="scss">
   @import '@/assets/stylesheets/main.scss';
-  $stop: 60%;
-  $angle: 80deg;
-  $bg-1: $green;
-  $bg-2: $green;
-  $bg-3: #86A24D;
   header {
-    background: $green; /* Old browsers */
-    background: -moz-linear-gradient(-45deg, $bg-1 0%, $bg-2 $stop, $bg-3 100%); /* FF3.6-15 */
-    background: -webkit-linear-gradient(-45deg, $bg-1 0%,$bg-2 $stop,$bg-3 100%); /* Chrome10-25,Safari5.1-6 */
-    background: linear-gradient(135deg, $bg-1 0%,$bg-2 $stop,$bg-3 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    @include gradient($green, #86A24D);
     margin-bottom: 2rem;
   }
   .navbar-brand {

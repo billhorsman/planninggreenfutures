@@ -1,6 +1,15 @@
 $green: #317231;
 $yellow: #FEFB53;
 
+@mixin gradient($color1, $color2) {
+  $bg-2: $color1;
+  $stop: 60%;
+  background: $color1; /* Old browsers */
+  background: -moz-linear-gradient(-45deg, $color1 0%, $bg-2 $stop, $color2 100%); /* FF3.6-15 */
+  background: -webkit-linear-gradient(-45deg, $color1 0%,$bg-2 $stop,$color2 100%); /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(135deg, $color1 0%,$bg-2 $stop,$color2 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+}
+
 ul.spaced {
   margin: 0;
   > li {
@@ -20,12 +29,27 @@ ul.spaced {
   margin: 0;
   padding: 0;
   a {
-    background: #f0f0f0;
+    @include gradient(#f0f0f0, #f9f9f9);
     display: block;
+    min-height: 128px;
     padding: 1rem;
+    position: relative;
+    &:after {
+      background: $yellow;
+      content: " ";
+      display: block;
+      height: 1rem;
+      left: 0;
+      position: absolute;
+      top: 0;
+      width: 1rem;
+    }
     &:hover {
       background: #f9f9f9;
       text-decoration: none;
+      &:after {
+        background: $green;
+      }
     }
   }
 }
