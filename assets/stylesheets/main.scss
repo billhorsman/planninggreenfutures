@@ -1,0 +1,37 @@
+$green: #317231;
+$yellow: #FEFB53;
+
+ul.spaced {
+  > li {
+    color: $green;
+    padding-top: .5rem;
+    padding-bottom: .5rem;
+    span {
+      color: black;
+    }
+  }
+}
+
+h2 {
+  color: $green;
+  margin: 0 0 2rem;
+  &:after {
+    border-bottom: .5rem solid $yellow;
+    content: " ";
+    display: block;
+    height: 1rem;
+    width: 10rem;
+  }
+}
+
+figure {
+  background: #f0f0f0;
+  padding: 1rem 1rem .1rem;
+  figcaption {
+    font-weight: bold;
+    text-align: center;
+  }
+  img {
+    margin: 1rem 0;
+  }
+}
