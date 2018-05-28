@@ -10,7 +10,7 @@
         <p>The Land Use Plan and accompanying SEA was adopted by Government and the two County Councils in June, 2015.</p>
       </div>
       <div class="col-md-4">
-        <img src="/land-use-planning-tana-delta-in-kenya-group.png" alt="${0}" class="w-100">
+        <img src="~/assets/images/land-use-planning-tana-delta-in-kenya-group.png" alt="${0}" class="w-100">
       </div>
     </div>
   </section>

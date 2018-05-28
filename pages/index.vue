@@ -66,13 +66,13 @@
       <ul class="people">
         <li>
           <h4>Peter Nelson</h4>
-          <img src="/peter.png" alt="Peter Nelson">
+          <img src="~/assets/images/peter.png" alt="Peter Nelson">
           <p>In addition to leading the Sierra Leone Oil and Gas SEA, Peter Nelson is currently advising the Government of Kenya and Nature Kenya on the preparation of a Land Use Plan for the Tana Delta and a Strategic Assessment of water use and pastoral farming in the Tana River Basin.</p>
           <p>He is also a member of the Expert Review Panel advising on development of the water resources of the Abbey / Blue Nile in Ethiopia.</p>
         </li>
         <li>
           <h4>Ranita Koroma</h4>
-          <img src="/ranita.png" alt="Ranita Koroma">
+          <img src="~/assets/images/ranita.png" alt="Ranita Koroma">
           <p>Ranita Koroma is currently undertaking the socioeconomic assessment on behalf of a consortium for a Palm Oil Development in Pujehun District, Sierra Leone.</p>
           <p>Ranita is also assisting the SEA of potential Oil and Gas development in Sierra Leone, including field research on the impacts of the Jubilee Field in Ghana.</p>
         </li>

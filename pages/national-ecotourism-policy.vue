@@ -8,10 +8,10 @@
         <p>The Draft Policy was unveiled by the Minister of Tourism and members of Cabinet and validated at a conference in Freetown in July.</p>
       </div>
       <div class="col-md-3">
-        <img src="/national-ecotourism-policy-carry.png" alt="" class="w-100">
+        <img src="~/assets/images/national-ecotourism-policy-carry.png" alt="" class="w-100">
       </div>
       <div class="col-md-3">
-        <img src="/national-ecotourism-policy-group.png" alt="" class="w-100">
+        <img src="~/assets/images/national-ecotourism-policy-group.png" alt="" class="w-100">
       </div>
     </div>
   </section>

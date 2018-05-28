@@ -23,7 +23,7 @@
         <p>Planning Green Futures managed the SEA Process and the final SEA Report can be accessed on the EPA website.</p>
       </div>
       <div class="col-md-3">
-        <img src="/sea-for-oil-rig.png" alt="" class="w-100">
+        <img src="~/assets/images/sea-for-oil-rig.png" alt="" class="w-100">
       </div>
     </div>
   </section>

@@ -7,7 +7,7 @@
         <p>The New Regulations have now been finalized and are in the process of being adopted by Government. They will be used by the Environment Protection Agency, the New National Minerals Agency and by the private sector to ensure that the standards of environmental protection and needs of local communities are properly addressed during the planning stages of all new mining projects and throughout the lifetime of each working mine.</p>
       </div>
       <div class="col-md-4">
-        <img src="/regulations-for-mining-in-sierra-leone-machine.png" alt=" " class="w-100">
+        <img src="~/assets/images/regulations-for-mining-in-sierra-leone-machine.png" alt=" " class="w-100">
       </div>
     </div>
   </section>

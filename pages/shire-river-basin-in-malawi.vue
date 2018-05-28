@@ -9,11 +9,11 @@
       </div>
       <div class="col-md-5">
         <figure>
-          <img src="/shire-river-basin-in-malawi-boat.png" alt="" class="w-100">
+          <img src="~/assets/images/shire-river-basin-in-malawi-boat.png" alt="" class="w-100">
           <figcaption>Crossing the Shire River. The only bridge was destroyed in 1997 by severe flooding.</figcaption>
         </figure>
         <figure>
-          <img src="/shire-river-basin-in-malawi-port.png" alt="" class="w-100">
+          <img src="~/assets/images/shire-river-basin-in-malawi-port.png" alt="" class="w-100">
           <figcaption>Construction of the Inland Port of Nsanje in progress in 2010. This controversial project requires trans-boundary co-operation with neighbouring countries.</figcaption>
         </figure>
       </div>

@@ -9,14 +9,14 @@
         <p>The Climate change adaptation measures have a budget of $4 million out of the total project budget of $28 million to be spent over 3 years.</p>
       </div>
       <div class="col-md-4">
-        <img src="/rural-water-supply-rivers.png" alt="${0}" class="w-75 float-right">
+        <img src="~/assets/images/rural-water-supply-rivers.png" alt="${0}" class="w-75 float-right">
       </div>
     </div>
     <div class="row">
       <div class="col-md-6">
         <figure>
           <figcaption class="title">Temperature change west Africa annual</figcaption>
-          <img src="/rural-water-supply-chart.png" alt="${0}" class="w-100">
+          <img src="~/assets/images/rural-water-supply-chart.png" alt="${0}" class="w-100">
           <p>Four Climate Models predict increases in annual temperature in West Africa of between 0.5 and 6.5&deg;C by 2100 with a conservative estimate of 2-3&deg;C.</p>
         </figure>
       </div>

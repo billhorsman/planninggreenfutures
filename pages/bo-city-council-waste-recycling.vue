@@ -13,18 +13,18 @@ Environmental and Social Impact Assessment of the Mile 5 Waste Recycling and Dis
       <div class="col-md-6">
         <div class="row">
           <div class="col-md-6">
-            <img src="/bo-city-council-waste-recycling-truck.png" alt=" " class="w-100 mb-3">
+            <img src="~/assets/images/bo-city-council-waste-recycling-truck.png" alt=" " class="w-100 mb-3">
           </div>
           <div class="col-md-6">
-            <img src="/bo-city-council-waste-recycling-containers.png" alt=" " class="w-100 mb-3">
+            <img src="~/assets/images/bo-city-council-waste-recycling-containers.png" alt=" " class="w-100 mb-3">
           </div>
         </div>
         <div class="row">
           <div class="col-md-6">
-            <img src="/bo-city-council-waste-recycling-tip.png" alt=" " class="w-100 mb-3">
+            <img src="~/assets/images/bo-city-council-waste-recycling-tip.png" alt=" " class="w-100 mb-3">
           </div>
           <div class="col-md-6">
-            <img src="/bo-city-council-waste-recycling-map.png" alt=" " class="w-100 mb-3">
+            <img src="~/assets/images/bo-city-council-waste-recycling-map.png" alt=" " class="w-100 mb-3">
           </div>
         </div>
       </div>

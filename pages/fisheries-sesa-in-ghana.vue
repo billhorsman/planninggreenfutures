@@ -9,7 +9,7 @@
         <p>The work was undertaken over a period of four months and has been formally adopted by the Government of Ghana.</p>
       </div>
       <div class="col-md-5">
-        <img src="/fisheries-sesa-in-ghana-boats.png" alt="" class="w-100">
+        <img src="~/assets/images/fisheries-sesa-in-ghana-boats.png" alt="" class="w-100">
       </div>
     </div>
   </section>
