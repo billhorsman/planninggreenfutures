@@ -78,6 +78,12 @@
         </li>
       </ul>
     </section>
+
+    <section>
+      <h2>Contact</h2>
+      <p>Tel: +232 (0)78 585 5727</p>
+      <p>Email: <a href="mailto:planninggreenfutures@gmail.com">planninggreenfutures@gmail.com</a></p>
+    </section>
   </section>
 </template>
 
