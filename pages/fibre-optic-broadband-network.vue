@@ -16,10 +16,8 @@
 
 <script>
 export default {
-
+  head: {
+    title: "Planning Green Futures - Sierra Leone"
+  }
 }
 </script>
-
-<style>
-
-</style>

@@ -1,4 +1,3 @@
-Environmental and Social Impact Assessment of the Mile 5 Waste Recycling and Disposal Site for Bo City Council
 <template>
   <section>
     <h2>Environmental and Social Impact Assessment of the Mile 5 Waste Recycling and Disposal Site for Bo City Council</h2>
@@ -31,3 +30,11 @@ Environmental and Social Impact Assessment of the Mile 5 Waste Recycling and Dis
     </div>
   </section>
 </template>
+
+<script>
+export default {
+  head: {
+    title: "Planning Green Futures - Sierra Leone"
+  }
+}
+</script>

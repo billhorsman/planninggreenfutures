@@ -90,9 +90,11 @@
 <script>
 
 export default {
-  components: {
+  head: {
+    title: "Planning Green Futures - Sierra Leone"
   }
 }
+
 </script>
 
 <style lang="scss">
