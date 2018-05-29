@@ -52,4 +52,19 @@
       }
     }
   }
+  html {
+    position: relative;
+    min-height: 100%;
+  }
+  body {
+    margin-bottom: 60px; /* Margin bottom by footer height */
+  }
+  footer {
+    bottom: 0;
+    background: #f0f0f0;
+    padding: 1rem;
+    position: absolute;
+    text-align: center;
+    width: 100%;
+  }
 </style>
