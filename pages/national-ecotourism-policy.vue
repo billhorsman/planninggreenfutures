@@ -1,6 +1,6 @@
 <template>
   <section>
-    <a href="/" class="back-home"><i class="fas fa-angle-double-left"/>Back home</a>
+    <back-home/>
     <h2>Preparation of a National Ecotourism Policy and Action Plan</h2>
     <div class="row">
       <div class="col-md-6">
@@ -19,9 +19,13 @@
 </template>
 
 <script>
+import BackHome from '~/components/BackHome.vue'
 export default {
   head: {
     title: "Planning Green Futures - Sierra Leone"
+  },
+  components: {
+    BackHome
   }
 }
 </script>
