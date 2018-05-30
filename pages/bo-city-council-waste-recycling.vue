@@ -1,5 +1,6 @@
 <template>
   <section>
+    <a href="/" class="back-home"><i class="fas fa-angle-double-left"/>Back home</a>
     <h2>Environmental and Social Impact Assessment of the Mile 5 Waste Recycling and Disposal Site for Bo City Council</h2>
     <div class="row">
       <div class="col-md-6">

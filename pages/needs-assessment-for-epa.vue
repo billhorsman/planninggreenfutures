@@ -1,5 +1,6 @@
 <template>
   <section>
+    <a href="/" class="back-home"><i class="fas fa-angle-double-left"/>Back home</a>
     <h2>Needs Assessment for the Environment Protection Agency-SL</h2>
       <p>In August 2009, the IDL Group was appointed by the World Bank to carry out a Needs Assessment for the Sierra Leone Environment Protection Agency.</p>
       <p>Peter Nelson of Planning Green Futures led the assignment which involved analyzing the needs and resources of the EPA. He conducted interviews with all members of staff and reviewed the long term commitments of the EPA under the 2008 EPA Act. The analysis showed that there was an urgent need to expand the Agency’s overall capacity and resources and a report was prepared setting out an Action Programme and recommending that the level of international assistance should be doubled.</p>

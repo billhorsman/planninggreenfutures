@@ -1,5 +1,6 @@
 <template>
   <section>
+    <a href="/" class="back-home"><i class="fas fa-angle-double-left"/>Back home</a>
     <h2>Building Climate Change Resilience and Adaptation into the Rural Water Supply and Sanitation Programme in Sierra Leone</h2>
 
     <div class="row">

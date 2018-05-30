@@ -57,7 +57,7 @@
     min-height: 100%;
   }
   body {
-    margin-bottom: 60px; /* Margin bottom by footer height */
+    margin-bottom: 100px; /* Margin bottom by footer height */
   }
   footer {
     bottom: 0;

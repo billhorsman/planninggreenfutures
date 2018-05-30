@@ -1,5 +1,6 @@
 <template>
   <section>
+    <a href="/" class="back-home"><i class="fas fa-angle-double-left"/>Back home</a>
     <h2>Rich Future or Resource Curse? SEA for Oil</h2>
     <div class="row">
       <div class="col-md-9">

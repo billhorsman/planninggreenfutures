@@ -81,8 +81,8 @@
 
     <section>
       <h2>Contact</h2>
-      <p>Tel: +232 (0)78 585 5727</p>
-      <p>Email: <a href="mailto:planninggreenfutures@gmail.com">planninggreenfutures@gmail.com</a></p>
+      <p><i class="fas fa-fw fa-phone"/> +232 (0)78 585 5727</p>
+      <p><a href="mailto:planninggreenfutures@gmail.com"><i class="fas fa-fw fa-envelope"/> planninggreenfutures@gmail.com</a></p>
     </section>
   </section>
 </template>
