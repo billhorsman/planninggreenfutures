@@ -23,13 +23,9 @@
 </template>
 
 <script>
-import BackHome from '~/components/BackHome.vue'
 export default {
   head: {
     title: "Planning Green Futures - Sierra Leone"
-  },
-  components: {
-    BackHome
   }
 }
 </script>

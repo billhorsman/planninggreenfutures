@@ -44,5 +44,8 @@ module.exports = {
   ],
   css: [
     '@/assets/stylesheets/main.scss'
+  ],
+  plugins: [
+    '~/plugins/global.js'
   ]
 }
