@@ -1,6 +1,6 @@
 <template>
   <section>
-
+    <h1>Planning Green Futures</h1>
     <section>
       <div class="row">
         <div class="col-md-7">
