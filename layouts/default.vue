@@ -19,6 +19,15 @@
   </div>
 </template>
 
+<script>
+export default {
+  head: {
+    title: "Planning Green Futures - Sierra Leone"
+  }
+}
+</script>
+
+
 <style lang="scss">
   @import '@/assets/stylesheets/main.scss';
   header {

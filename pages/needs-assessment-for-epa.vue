@@ -8,11 +8,3 @@
       <p>The Head of EU Delegation in Sierra Leone, Jean-Pierre Reymondet-Commoy says that the grant "will mainstream the efforts by the Environmental Protection Agency-Sierra Leone, leading to the development of coherent environmental policies, regulations and standards on environment and climate change."</p>
   </section>
 </template>
-
-<script>
-export default {
-  head: {
-    title: "Planning Green Futures - Sierra Leone"
-  }
-}
-</script>
