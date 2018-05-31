@@ -4,7 +4,7 @@
       <nav class="navbar navbar-default">
         <a class="navbar-brand" href="/">
           <abbr>pgf</abbr>
-          <span>Planning Green Futures</span>
+          <span>Planning Green Futures Ltd</span>
           <sub>Sierra Leone</sub>
         </a>
       </nav>
@@ -58,6 +58,14 @@ export default {
     &:hover {
       abbr, span, sub {
         color: lighten($yellow, 20%);
+      }
+    }
+    @media (max-width: 400px) {
+      abbr {
+        font-size: 1.1rem;
+      }
+      span {
+        font-size: 1rem;
       }
     }
   }

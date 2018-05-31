@@ -1,17 +1,21 @@
 <template>
   <section>
-    <h1>Planning Green Futures</h1>
+    <h1>Planning Green Futures Ltd</h1>
     <section>
       <div class="row">
         <div class="col-md-7">
-          <p>Planning Green Futures Ltd is a multi-disciplinary consultancy offering a wide range of skills and services in environmental assessment, natural resources planning , and social and community welfare enhancement. The company was established in August 2012 and is affiliated to pgf Consulting based in Bristol in the United Kingdom. It is managed by Ranita Adama Sandi-Koroma, a Postgraduate of the University of Sierra Leone (Fourah Bay) with wide experience in social and environmental impact assessment, fisheries, land use and community and gender issues.</p>
-          <p>Planning Green Futures Ltd’s International Director is Peter Jon Nelson, who is also the Principal of pgf Consulting and is an international planner and environmental scientist. Peter has worked extensively in West Africa since 2002.</p>
-          <p>Planning Green Futures Ltd is a new style of planning practice, since its main objective is to build environmental capacity in Sierra Leone. Its primary role is to assist Government Ministries and Agencies, District Councils, Civil Society and International Partners to introduce state of the art policies, plans and programmes for improving livelihoods and reducing poverty . All projects are designed to ensure environmental enhancement, sustainable use of natural resources and self-help within local communities.</p>
-          <p>While the primary focus lies in providing services to the public sector, pgf Ltd also supports investors and development companies that have adopted a positive commitment towards sustainable development.</p>
-          <p>Pgf Ltd guards its objectivity and independence carefully. It will only take on assignments that are in the National Interest of countries in which it works.</p>
+          <p>Planning Green Futures Ltd is a multi-disciplinary consultancy offering a wide range of skills and services in environmental assessment, natural resources planning, governance and institutional reform and social and community welfare enhancement.  The Practice was initially formed in 2009 and was formally constituted as a registered company in the United Kingdom in 2016, although its activities are world-wide.</p>
+          <p>Planning Green Futures Ltd is a new style of planning practice, since its main objective is to build environmental capacity by training local professionals in Africa, although it also works in Europe and Asia. Its primary role is to assist Government Ministries and Agencies, District Councils, Civil Society and International Partners to introduce state of the art policies, plans and programmes for improving livelihoods and reducing poverty. All projects are designed to ensure environmental enhancement, sustainable use of natural resources and self-help within local communities.</p>
+          <p>While the primary focus lies in providing services to the public sector, PGF Ltd also supports investors and development companies that have adopted a positive commitment towards sustainable development.</p>
+          <p>PGF Ltd guards its objectivity and independence carefully. It will only take on assignments that are in the National Interest of countries in which it works.</p>
+          <p>Planning Green Futures Ltd’s International Director is Peter Jon Nelson. He is an international planner and environmental scientist. Peter has worked extensively in West Africa since 2002.</p>
+
+          <h3>Sierra Leone Affiliate Company</h3>
+          <p>In August 2012 an affiliated company was established in Freetown, Sierra Leone. It is managed by Ranita Adama Sandi-Koroma, a Postgraduate of the University of Sierra Leone (Fourah Bay) with wide experience in social and environmental impact assessment, fisheries, land use and community and gender issues.</p>
+
         </div>
         <div class="col-md-5">
-          <p>Current and Recent Projects:</p>
+          <h3>Current and Recent Projects</h3>
           <ul class="spaced">
             <li><span>Designing a Climate Change adaptation programme for rural water and sanitation improvements in five districts for the African Development Bank and Ministries of Water Resources, Health and Sanitation;</span></li>
             <li><span>Undertaking the design and environmental assessment of a new waste recycling and composting site for Bo City Council (promoted by Welthungerhilfe, the Council and UK Aid);</span></li>
@@ -36,7 +40,7 @@
         </div>
         <div class="col-md-6">
           <ul class="spaced">
-            <li><span>Representing clients’ views at stakehold- er meetings</span></li>
+            <li><span>Representing clients’ views at stakeholder meetings</span></li>
             <li><span>Project design and management Feasibility Studies</span></li>
             <li><span>Research studies, SEAs, EIAs & ESIAs</span></li>
           </ul>
@@ -81,8 +85,19 @@
 
     <section>
       <h2>Contact</h2>
-      <p><i class="fas fa-fw fa-phone"/> +232 (0)78 585 5727</p>
       <p><a href="mailto:planninggreenfutures@gmail.com"><i class="fas fa-fw fa-envelope"/> planninggreenfutures@gmail.com</a></p>
+      <h3>International Office</h3>
+      <p>
+        <i class="fas fa-fw fa-phone"/> +44 (0)7736 395769
+        <br/>
+        25, Clyde Road, Redland, Bristol, BS6 6RJ, United Kingdom
+      </p>
+      <h3>Sierra Leone Office</h3>
+      <p>
+        <i class="fas fa-fw fa-phone"/> +232 (0)78 585 5727
+        <br/>
+        Planning Green Futures(SL) Ltd &mdash; 112, Circular Road, Freetown, Sierra Leone
+      </p>
     </section>
   </section>
 </template>
